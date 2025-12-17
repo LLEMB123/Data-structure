@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\cxproject\\github\\Data-structure\\1.linear list\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3009B176-577B-4F29-A6D3-B5DC9CC35621}|linear list.vcxproj|D:\\cxproject\\github\\Data-structure\\1.linear list\\list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3009B176-577B-4F29-A6D3-B5DC9CC35621}|linear list.vcxproj|solutionrelative:list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3009B176-577B-4F29-A6D3-B5DC9CC35621}|linear list.vcxproj|D:\\cxproject\\github\\Data-structure\\1.linear list\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3009B176-577B-4F29-A6D3-B5DC9CC35621}|linear list.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3009B176-577B-4F29-A6D3-B5DC9CC35621}|linear list.vcxproj|D:\\cxproject\\github\\Data-structure\\1.linear list\\singlelist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3009B176-577B-4F29-A6D3-B5DC9CC35621}|linear list.vcxproj|solutionrelative:singlelist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3009B176-577B-4F29-A6D3-B5DC9CC35621}|linear list.vcxproj|D:\\cxproject\\github\\Data-structure\\1.linear list\\singlelist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3009B176-577B-4F29-A6D3-B5DC9CC35621}|linear list.vcxproj|solutionrelative:singlelist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3009B176-577B-4F29-A6D3-B5DC9CC35621}|linear list.vcxproj|D:\\cxproject\\github\\Data-structure\\1.linear list\\list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3009B176-577B-4F29-A6D3-B5DC9CC35621}|linear list.vcxproj|solutionrelative:list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3009B176-577B-4F29-A6D3-B5DC9CC35621}|linear list.vcxproj|D:\\cxproject\\github\\Data-structure\\1.linear list\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3009B176-577B-4F29-A6D3-B5DC9CC35621}|linear list.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3009B176-577B-4F29-A6D3-B5DC9CC35621}|linear list.vcxproj|D:\\cxproject\\github\\Data-structure\\1.linear list\\list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3009B176-577B-4F29-A6D3-B5DC9CC35621}|linear list.vcxproj|solutionrelative:list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "list.h",
               "DocumentMoniker": "D:\\cxproject\\github\\Data-structure\\1.linear list\\list.h",
               "RelativeDocumentMoniker": "list.h",
               "ToolTip": "D:\\cxproject\\github\\Data-structure\\1.linear list\\list.h",
               "RelativeToolTip": "list.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-12-04T13:14:33.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "singlelist.cpp",
+              "DocumentMoniker": "D:\\cxproject\\github\\Data-structure\\1.linear list\\singlelist.cpp",
+              "RelativeDocumentMoniker": "singlelist.cpp",
+              "ToolTip": "D:\\cxproject\\github\\Data-structure\\1.linear list\\singlelist.cpp*",
+              "RelativeToolTip": "singlelist.cpp*",
+              "ViewState": "AgIAALwAAAAAAAAAAAAAAMIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T08:15:10.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "singlelist.h",
+              "DocumentMoniker": "D:\\cxproject\\github\\Data-structure\\1.linear list\\singlelist.h",
+              "RelativeDocumentMoniker": "singlelist.h",
+              "ToolTip": "D:\\cxproject\\github\\Data-structure\\1.linear list\\singlelist.h*",
+              "RelativeToolTip": "singlelist.h*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T08:15:35.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "list.cpp",
               "DocumentMoniker": "D:\\cxproject\\github\\Data-structure\\1.linear list\\list.cpp",
               "RelativeDocumentMoniker": "list.cpp",
               "ToolTip": "D:\\cxproject\\github\\Data-structure\\1.linear list\\list.cpp",
               "RelativeToolTip": "list.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-04T13:17:32.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\cxproject\\github\\Data-structure\\1.linear list\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\cxproject\\github\\Data-structure\\1.linear list\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAABoAAAAAAAAAAAAUwAUAAAAKAAAAAAAAAA==",
+              "ToolTip": "D:\\cxproject\\github\\Data-structure\\1.linear list\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwDwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-02T12:04:20.673Z",
               "EditorCaption": ""
